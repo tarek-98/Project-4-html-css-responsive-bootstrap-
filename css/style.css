@@ -189,7 +189,7 @@ html svg
 {
     background-color: var(--y--color);
     color: white;
-    width: 35%;
+    width: 75%;
 }
 .about .content .count 
 {
@@ -213,6 +213,7 @@ html svg
 .about .image .four
 {
     position: relative;
+    margin-bottom: 5px;
 }
 .about .image .one
 {
@@ -242,7 +243,7 @@ html svg
 {
     position: relative;
     background-color: var(--y--color);
-    width: 25%;
+    width: 30%;
     color: white;
     margin-top: -15px;
     margin-left: 10px;
@@ -356,7 +357,7 @@ html svg
 {
     position: relative;
     background-color: white;
-    width: 50%;
+    /* width: 50%; */
 }
 /*team*/
 .team .content
@@ -370,11 +371,11 @@ html svg
 .team .content .social
 {
     margin-top: -3%;
-    transform: translateX(26%);
-    -webkit-transform: translateX(26%);
-    -moz-transform: translateX(26%);
-    -ms-transform: translateX(26%);
-    -o-transform: translateX(26%);
+    transform: translateX(27%);
+    -webkit-transform: translateX(27%);
+    -moz-transform: translateX(27%);
+    -ms-transform: translateX(27%);
+    -o-transform: translateX(27%);
 }
 .team .content .social a
 {
